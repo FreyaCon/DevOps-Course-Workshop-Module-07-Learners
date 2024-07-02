@@ -1,3 +1,5 @@
+# Status
+![Build Status](https://github.com/FreyaCon/DevOps-Course-Workshop-Module-07-Learners/actions/workflows/ci.yml/badge.svg)
 # Workshop Module 07
 
 This repository is for learners on Corndel's DevOps apprenticeship.
